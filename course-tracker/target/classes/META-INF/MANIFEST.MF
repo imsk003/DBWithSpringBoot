@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: SK
+Build-Jdk: 11.0.1
+Implementation-Title: course-tracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: course-tracker
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/course-tracker
+Created-By: Maven Integration for Eclipse
+

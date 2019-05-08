@@ -1,0 +1,26 @@
+course-tracker
+**************
+
+GET -> localhost:8080/instructor
+
+GET -> localhost:8080/course
+
+GET -> localhost:8080/student
+
+GET -> localhost:8080/instructor/{id}
+
+GET -> localhost:8080/course/{id}
+
+GET -> localhost:8080/student/{id}
+
+POST -> localhost:8080/instructor
+
+POST -> localhost:8080/course
+
+POST -> localhost:8080/student
+
+DELETE -> localhost:8080/instructor/{id}
+
+DELETE -> localhost:8080/course/{id}
+
+DELETE -> localhost:8080/student/{id}
